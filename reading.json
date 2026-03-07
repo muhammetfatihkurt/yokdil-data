@@ -1,0 +1,702 @@
+[
+  {
+    "id": "rd-001",
+    "title": "A Healthy Morning Routine",
+    "content": "Starting your day with a healthy routine is very important. Many people like to drink a glass of water first. Then, they do some simple exercises. A good breakfast gives you energy for the whole day. You should eat fruits and eggs. Walking in the fresh air is also good for your heart. If you follow these steps, you will feel better and stronger every morning.",
+    "difficultyLevel": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "rd-002",
+    "title": "My Favorite City: Istanbul",
+    "content": "Istanbul is a very beautiful city in Turkey. It is special because it is in both Europe and Asia. There are many historical places to see, like the Blue Mosque and Hagia Sophia. People love the Bosphorus bridge. Many tourists visit Istanbul every year to eat delicious food and see the sea. It is a crowded city, but it is very exciting to live there.",
+    "difficultyLevel": 1,
+    "category": "Tarih"
+  },
+  {
+    "id": "rd-003",
+    "title": "The Benefits of Reading Books",
+    "content": "Reading books is a great hobby. It helps you learn new words and information. When you read, your imagination grows. You can travel to different worlds without leaving your house. Some people like stories, while others like history books. It is good to read at least twenty minutes every day before sleep. Books make you smarter and more relaxed.",
+    "difficultyLevel": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "rd-004",
+    "title": "A Day at the Zoo",
+    "content": "The zoo is a fun place for families. Children can see many different animals like lions, tigers, and monkeys. The elephants are very big and they eat grass. Giraffes have long necks to reach leaves on tall trees. It is important to look at the animals quietly. Zookeepers take care of them and give them food every day. Visiting the zoo helps us learn about nature.",
+    "difficultyLevel": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "rd-005",
+    "title": "The Importance of Water",
+    "content": "Water is essential for all living things. Humans, animals, and plants need water to survive. We should drink at least two liters of water every day. Water helps our skin look healthy and gives us energy. Without water, we cannot live for a long time. We must also protect our rivers and lakes. Please do not waste water when you wash your hands.",
+    "difficultyLevel": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "rd-006",
+    "title": "Learning a New Language",
+    "content": "Learning a new language is not always easy, but it is very useful. You can talk to people from other countries. It also helps your brain stay active. You can practice by listening to music or watching movies in that language. Teachers say that speaking every day is the best way to learn. Do not be afraid of making mistakes, because every mistake helps you improve.",
+    "difficultyLevel": 1,
+    "category": "Tarih"
+  },
+  {
+    "id": "rd-007",
+    "title": "The Solar System",
+    "content": "The Sun is at the center of our solar system. There are eight planets that go around the Sun. Earth is the third planet. Mars is often called the 'Red Planet'. Jupiter is the biggest planet of all. Some planets have moons, like our Earth has one Moon. Scientists use telescopes to look at stars and planets far away. Space is very big and mysterious.",
+    "difficultyLevel": 1,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "rd-008",
+    "title": "Planting a Garden",
+    "content": "If you want to have a garden, you need soil, seeds, and water. First, you dig a small hole in the ground. Then, you put the seeds inside and cover them with soil. You must water the plants regularly. Sun is also necessary for plants to grow. After some weeks, you will see green leaves. Growing your own vegetables is very satisfying and healthy.",
+    "difficultyLevel": 1,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "rd-009",
+    "title": "The Four Seasons",
+    "content": "The year has four seasons: Spring, Summer, Autumn, and Winter. In Spring, flowers bloom and the weather gets warm. Summer is hot and many people go to the beach. In Autumn, leaves turn yellow and fall from the trees. Winter is cold and it sometimes snows in many places. Each season is special and brings different activities for everyone to enjoy.",
+    "difficultyLevel": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "rd-010",
+    "title": "A Visit to the Library",
+    "content": "The library is a quiet place where you can find many books. You can borrow books to take home for a few weeks. There are also computers for research. If you have a question, you can ask the librarian. It is a good place to study because it is silent. Always remember to return your books on time so other people can read them too.",
+    "difficultyLevel": 1,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "rd-011",
+    "title": "The Mediterranean Diet",
+    "content": "The Mediterranean diet is famous for its health benefits. It focuses on eating vegetables, fruits, whole grains, and healthy fats like olive oil. People in this region eat very little red meat. Instead, they prefer fish and poultry. Studies suggest that this way of eating can reduce the risk of heart disease and help people live longer. Moreover, it is not just about food; it is also about sharing meals with family.",
+    "difficultyLevel": 2,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "rd-012",
+    "title": "The Great Wall of China",
+    "content": "The Great Wall of China is one of the most impressive structures in history. It was built thousands of years ago to protect China from invaders. The wall is thousands of miles long and crosses mountains and deserts. Millions of workers spent their lives building it. Today, it is a world-famous tourist destination. Even though it is very old, many parts of the wall are still standing and can be visited today.",
+    "difficultyLevel": 2,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "rd-013",
+    "title": "Electric Vehicles and the Future",
+    "content": "Electric vehicles (EVs) are becoming increasingly popular around the world. Unlike traditional cars, EVs do not use gasoline. Instead, they run on electricity stored in large batteries. This makes them much cleaner for the environment because they do not produce exhaust fumes. However, one challenge is that charging an electric car takes longer than filling a gas tank. Many governments are now building more charging stations to help drivers.",
+    "difficultyLevel": 2,
+    "category": "Tarih"
+  },
+  {
+    "id": "rd-014",
+    "title": "The Importance of Sleep",
+    "content": "Sleep is crucial for both our physical and mental health. When we sleep, our bodies repair themselves and our brains process the information from the day. Most adults need between seven and nine hours of sleep every night. A lack of sleep can lead to poor concentration and mood swings. To improve your sleep, it is recommended to avoid screens like phones or computers at least one hour before you go to bed.",
+    "difficultyLevel": 2,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "rd-015",
+    "title": "Renewable Energy Sources",
+    "content": "Renewable energy comes from sources that do not run out, such as the sun, wind, and water. Solar panels capture energy from sunlight, while wind turbines use the movement of air to generate power. These sources are better for the planet than coal or oil because they do not release harmful gases. As technology improves, renewable energy is becoming cheaper and more common. Many countries want to use 100% renewable energy in the future.",
+    "difficultyLevel": 2,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "rd-016",
+    "title": "The Amazon Rainforest",
+    "content": "The Amazon rainforest is the largest tropical forest in the world. It is located in South America and is home to millions of species of plants and animals. The forest plays a vital role in regulating the Earth's climate by absorbing carbon dioxide. However, deforestation is a serious threat to the Amazon. Trees are being cut down for farming and mining. Protecting this forest is essential for the survival of many species and for a stable climate.",
+    "difficultyLevel": 2,
+    "category": "Tarih"
+  },
+  {
+    "id": "rd-017",
+    "title": "The Invention of the Internet",
+    "content": "The internet has changed the way we live, work, and communicate. It started as a small project to connect computers in different universities. Today, billions of people use it every day for social media, shopping, and education. We can find any information in just a few seconds. Although the internet has many advantages, we must be careful about our privacy and spend our time wisely online. It is truly a revolutionary invention of the 20th century.",
+    "difficultyLevel": 2,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "rd-018",
+    "title": "Space Tourism",
+    "content": "Space tourism is no longer a dream from science fiction. In recent years, private companies have started sending non-astronauts into space. While it is currently very expensive and only for extremely wealthy people, many hope it will become more accessible in the future. Imagine looking at the Earth from above or experiencing zero gravity. Scientists are working hard to make space travel safer and more affordable for everyone who wants to explore the stars.",
+    "difficultyLevel": 2,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "rd-019",
+    "title": "The Benefits of Exercise",
+    "content": "Regular exercise is one of the best things you can do for your health. It strengthens your muscles and bones and helps you maintain a healthy weight. Furthermore, exercise is good for your mind; it reduces stress and anxiety by releasing chemicals called endorphins. You don't need to go to the gym every day; even a brisk walk or a bike ride can make a big difference. The most important thing is to find an activity you enjoy and stay active.",
+    "difficultyLevel": 2,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "rd-020",
+    "title": "Modern Farming Methods",
+    "content": "Agriculture has come a long way from traditional farming. Today, many farmers use high-tech tools like drones and sensors to monitor their crops. These tools help them use less water and fertilizer while producing more food. Some farmers also use vertical farming, where plants are grown in layers inside buildings. This method is great for cities where there is not much land. Modern farming is essential to feed the growing population of the world sustainably.",
+    "difficultyLevel": 2,
+    "category": "Tarih"
+  },
+  {
+    "id": "rd-021",
+    "title": "The Economic Impact of Globalization",
+    "content": "Globalization refers to the increasing interconnectedness of national economies through trade and financial flows. While it has led to significant economic growth in many developing nations, it has also sparked intense debate. Proponents argue that globalization allows for the efficient distribution of resources and provides consumers with a wider variety of affordable goods. On the other hand, critics worry that it can lead to job losses in developed countries and increase the gap between the rich and the poor.",
+    "difficultyLevel": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "rd-022",
+    "title": "Urbanization and Its Challenges",
+    "content": "As more people move from rural areas to cities in search of better opportunities, urbanization has become a global phenomenon. While cities offer better access to healthcare, education, and employment, they also face numerous challenges. Overcrowding often leads to housing shortages and increased traffic congestion. Environmental pollution is another major concern in rapidly growing urban centers. Therefore, urban planners must focus on sustainable infrastructure and public transportation to ensure a high quality of life for all residents.",
+    "difficultyLevel": 3,
+    "category": "Tarih"
+  },
+  {
+    "id": "rd-023",
+    "title": "The Role of Artificial Intelligence in Ethics",
+    "content": "Artificial Intelligence (AI) is rapidly evolving, leading to profound questions about ethics and responsibility. As AI systems begin to make decisions that affect human lives, such as in autonomous vehicles or medical diagnoses, the need for ethical guidelines becomes critical. Who is responsible if an AI makes a harmful mistake? Furthermore, there are concerns about bias in AI algorithms, which can lead to unfair treatment of certain groups. Addressing these ethical issues is essential to ensure that AI technology benefits society as a whole.",
+    "difficultyLevel": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "rd-024",
+    "title": "The Psychology of Consumer Behavior",
+    "content": "Understanding why people buy certain products is at the heart of modern marketing. Consumer psychology explores the mental and emotional factors that influence purchasing decisions. Brands often use subtle techniques, such as specific colors or music, to create a particular mood in stores. Additionally, the concept of social proof—where people follow the actions of others—plays a major role in online shopping through reviews and ratings. By analyzing these behaviors, companies can more effectively target their advertisements to potential customers.",
+    "difficultyLevel": 3,
+    "category": "Eğitim"
+  },
+  {
+    "id": "rd-025",
+    "title": "Biodiversity Loss and Ecosystem Services",
+    "content": "Biodiversity is the variety of life on Earth, and its rapid loss is one of the most pressing environmental issues today. Healthy ecosystems provide essential services, such as clean water, pollination for crops, and climate regulation. Human activities, including habitat destruction and pollution, are pushing many species toward extinction. When a species disappears, it can disrupt the entire food chain, leading to a collapse of ecosystem services. Consequently, conservation efforts are vital to protect the natural world and ensure our own future well-being.",
+    "difficultyLevel": 3,
+    "category": "Eğitim"
+  },
+  {
+    "id": "rd-026",
+    "title": "The History of Human Migration",
+    "content": "Human migration has been a constant feature of history, driven by a variety of factors such as environmental changes, conflict, and economic opportunity. Archaeologists believe that early humans began migrating from Africa to other parts of the world tens of thousands of years ago. These movements have shaped the cultural and genetic diversity of our species. In modern times, migration continues to be a complex issue, with millions of people crossing borders every year. Understanding the historical context of migration helps us address the challenges faced by migrants today.",
+    "difficultyLevel": 3,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "rd-027",
+    "title": "The Impact of Social Media on Mental Health",
+    "content": "While social media has made it easier to connect with others, its impact on mental health is a subject of ongoing research. On one hand, it can provide a sense of community and support. On the other hand, heavy use of social media is linked to increased feelings of loneliness, anxiety, and depression. The constant comparison with the seemingly perfect lives of others can lead to low self-esteem. To maintain a healthy relationship with social media, experts suggest taking regular breaks and focusing on real-life interactions.",
+    "difficultyLevel": 3,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "rd-028",
+    "title": "The Science of Vaccines",
+    "content": "Vaccines are one of the most successful public health interventions in history, having eradicated or significantly reduced many deadly diseases. They work by training the immune system to recognize and fight specific pathogens, such as viruses or bacteria, without causing the disease itself. When a large portion of a population is vaccinated, it creates 'herd immunity,' which protects those who cannot be vaccinated for medical reasons. Despite their proven safety and effectiveness, vaccine hesitancy remains a challenge in some parts of the world.",
+    "difficultyLevel": 3,
+    "category": "Eğitim"
+  },
+  {
+    "id": "rd-029",
+    "title": "The Industrial Revolution and Its Legacy",
+    "content": "The Industrial Revolution began in the late 18th century and fundamentally transformed society by replacing hand labor with machines. This shift led to a massive increase in production and a rise in urban populations. While it brought about unprecedented economic growth and technological advancement, it also created harsh working conditions and environmental degradation. The legacy of the Industrial Revolution is visible today in our globalized, technology-driven world, but we continue to grapple with the environmental consequences of that era's reliance on fossil fuels.",
+    "difficultyLevel": 3,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "rd-030",
+    "title": "Sustainable Tourism Practices",
+    "content": "Travel and tourism provide significant economic benefits, but they can also place a heavy burden on local environments and cultures. Sustainable tourism aims to minimize these negative impacts while maximizing the benefits for local communities. This includes choosing eco-friendly accommodation, supporting local businesses, and respecting indigenous traditions. Furthermore, reducing carbon footprints by flying less or choosing carbon offsets is becoming a priority for conscious travelers. By adopting sustainable practices, we can ensure that future generations can also enjoy the world's most beautiful destinations.",
+    "difficultyLevel": 3,
+    "category": "Eğitim"
+  },
+  {
+    "id": "rd-031",
+    "title": "The Existential Risks of Emerging Technologies",
+    "content": "While technological progress has historically enhanced human welfare, some experts warn of existential risks associated with emerging technologies like advanced AI and biotechnology. The potential for these tools to be misused or to behave in unforeseen ways poses a unique set of challenges. For instance, the creation of autonomous weapon systems could lead to a revolution in warfare with grave humanitarian consequences. Addressing these risks requires international cooperation and robust regulatory frameworks that prioritize safety and ethics over rapid development and commercial gain.",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "rd-032",
+    "title": "Neuroplasticity and Lifelong Learning",
+    "content": "For a long time, it was believed that the adult brain was relatively static. However, research into neuroplasticity has revealed that the brain remains capable of changing its structure and function throughout life. This adaptability means that learning new skills, whether a new language or a musical instrument, can physically alter the brain's neural pathways. This finding has significant implications for aging, as staying mentally active can help preserve cognitive function and reduce the risk of neurodegenerative diseases. Lifelong learning is therefore an essential strategy for maintaining brain health.",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "rd-033",
+    "title": "Microplastics in the Marine Environment",
+    "content": "The prevalence of microplastics—plastic particles smaller than five millimeters—in the world's oceans has become a critical environmental crisis. These particles originate from the breakdown of larger plastic debris and from manufactured products like cosmetics. Marine organisms often mistake microplastics for food, leading to physical harm and the accumulation of toxic chemicals in the food chain. Recent studies have even detected microplastics in human blood and tissues, raising concerns about potential long-term health effects. Tackling this issue requires a comprehensive global strategy to reduce plastic production and improve waste management.",
+    "difficultyLevel": 4,
+    "category": "Tarih"
+  },
+  {
+    "id": "rd-034",
+    "title": "The Philosophy of Existentialism",
+    "content": "Existentialism is a philosophical movement that emphasizes individual freedom, choice, and responsibility in a world perceived as inherently meaningless. Thinkers like Jean-Paul Sartre and Albert Camus argued that individuals must create their own values and meaning in life. This philosophy often explores themes of anxiety, alienation, and the 'absurd.' While some find existentialism to be pessimistic, others see it as a powerful call to personal empowerment. By accepting the absence of a predetermined purpose, an individual is free to define themselves through their own actions and commitments.",
+    "difficultyLevel": 4,
+    "category": "Tarih"
+  },
+  {
+    "id": "rd-035",
+    "title": "The Geopolitics of Energy Transition",
+    "content": "The global shift from fossil fuels to renewable energy sources is not only an environmental necessity but also a significant geopolitical transformation. For decades, the control of oil and gas reserves has been a major source of power for many nations. As countries move toward solar, wind, and electric batteries, the demand for critical minerals like lithium and cobalt is surging. This shift is creating new alliances and rivalries as nations compete for dominance in the green technology market. The energy transition will therefore reshape global power dynamics in the 21st century.",
+    "difficultyLevel": 4,
+    "category": "Eğitim"
+  },
+  {
+    "id": "rd-036",
+    "title": "Quantum Computing and Future Encryption",
+    "content": "Quantum computing represents a paradigm shift in information technology, utilizing the principles of quantum mechanics to perform calculations far beyond the reach of classical computers. While this technology promises breakthroughs in drug discovery and materials science, it also poses a threat to current encryption methods. Many of the security protocols used today to protect sensitive data could be easily broken by a sufficiently powerful quantum computer. As a result, researchers are racing to develop 'quantum-resistant' cryptography to ensure data security in a future where quantum computers are widespread.",
+    "difficultyLevel": 4,
+    "category": "Tarih"
+  },
+  {
+    "id": "rd-037",
+    "title": "The Socio-Economic Effects of Universal Basic Income",
+    "content": "Universal Basic Income (UBI) is a proposed policy in which all citizens receive a regular, unconditional sum of money from the government. Proponents argue that UBI could provide a safety net in an era of automation and job displacement, reduce poverty, and empower individuals to pursue creative or social work. Critics, however, raise concerns about the high cost of implementation and the potential for it to discourage labor force participation. Several pilots around the world have produced mixed results, sparking ongoing debate about the long-term viability and social impact of such a radical economic policy.",
+    "difficultyLevel": 4,
+    "category": "Eğitim"
+  },
+  {
+    "id": "rd-038",
+    "title": "Genomic Editing and Human Enhancement",
+    "content": "The development of CRISPR-Cas9 technology has made it possible to edit DNA with unprecedented precision, opening the door to revolutionary medical treatments for genetic disorders. However, the possibility of using genomic editing for human enhancement—such as increasing intelligence or physical performance—raises profound ethical and social questions. Concerns about 'designer babies' and the potential for increased inequality have led to calls for strict international regulations. As we gain the power to alter the very blueprint of human life, society must decide how to balance innovation with ethical responsibility.",
+    "difficultyLevel": 4,
+    "category": "Tarih"
+  },
+  {
+    "id": "rd-039",
+    "title": "The Paradox of Choice in Modern Society",
+    "content": "In many modern societies, individuals are presented with an overwhelming array of choices in every aspect of life, from consumer goods to career paths. While choice is generally associated with freedom, psychologists have identified a 'paradox of choice' where too many options can lead to anxiety, paralysis, and dissatisfaction. This phenomenon occurs because the effort required to make an optimal decision becomes exhausting, and the fear of making the wrong choice increases. Understanding this paradox can help individuals and businesses make more intentional decisions in a world of infinite possibilities.",
+    "difficultyLevel": 4,
+    "category": "Eğitim"
+  },
+  {
+    "id": "rd-040",
+    "title": "Linguistic Diversity and Cultural Identity",
+    "content": "Language is not merely a tool for communication; it is a vital repository of cultural identity and traditional knowledge. As globalization and urbanization accelerate, many minority languages are threatened with extinction. When a language dies, the unique worldview and cultural insights it carries are lost forever. Efforts to revitalize endangered languages, such as through community-led immersion programs, are crucial for maintaining the world's cultural heritage. Protecting linguistic diversity is therefore an essential component of preserving human knowledge and promoting intercultural understanding.",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "rd-041",
+    "title": "The Convergence of Biotechnology and Information Systems",
+    "content": "The contemporary scientific landscape is increasingly defined by the synthesis of biological research and computational power. This convergence, often termed 'bio-informatics' or 'synthetic biology,' allows researchers to model complex biological processes at an unprecedented scale. By leveraging large datasets, scientists can now design synthetic organisms capable of producing biofuels or neutralizing toxins. However, this blurred line between software and organic matter invites significant security and ethical concerns, necessitating a global discourse on the limitations of biological modification and the governance of digital biological data.",
+    "difficultyLevel": 5,
+    "category": "Eğitim"
+  },
+  {
+    "id": "rd-042",
+    "title": "The Epistemological Crisis in the Post-Truth Era",
+    "content": "The proliferation of digital disinformation has precipitated what many scholars characterize as an epistemological crisis—a breakdown in the shared understanding of truth and evidence. In an environment dominated by algorithmic echo chambers, consensus on objective facts has become increasingly elusive. This erosion of trust in traditional expertise and institutional knowledge poses a fundamental threat to democratic stability and public discourse. Addressing this challenge requires more than just fact-checking; it demands a critical re-evaluation of media literacy and the structural incentives of the information economy to prioritize verity over engagement.",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "rd-043",
+    "title": "Stellar Evolution and the Fate of the Universe",
+    "content": "Astrophysical researchers continue to refine our understanding of stellar evolution, tracing the lifecycle of stars from their formation in nebulae to their eventual collapse. The mechanisms governing these processes—such as nuclear fusion and gravitational equilibrium—provide insights into the chemical enrichment of galaxies. Furthermore, the study of supernovae and black holes is essential for comprehending the long-term trajectory of the universe. Current theories regarding dark energy suggest an accelerated expansion, leading to a hypothetical 'Big Freeze' or 'Heat Death.' These cosmic inquiries challenge our perceptions of time and the eventual destiny of all matter.",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "rd-044",
+    "title": "The Ethical Imperative of Intergenerational Justice",
+    "content": "Intergenerational justice is a moral framework that argues for the rights and interests of future generations to be considered in contemporary decision-making. This imperative is most critically applied to climate change and resource management, where actions taken today will irrevocably alter the living conditions of those born centuries from now. Philosophers debate how to weigh the needs of current populations against a distant, hypothetical future. Critics of short-termism advocate for the institutionalization of future-oriented policies, ensuring that the ecological and economic inheritances of posterity are not sacrificed for transient present gains.",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "rd-045",
+    "title": "Technological Singularity and the Future of Consciousness",
+    "content": "The concept of technological singularity—the point at which artificial intelligence surpasses human cognitive capabilities—has shifted from the realm of speculative fiction to serious academic exploration. Proponents suggest this event could lead to rapid improvements in science and medicine, while skeptics warn of an uncontrollable loss of human agency. A central question in this debate is whether machine intelligence can ever possess 'qualia' or subjective consciousness. The potential for 'substrate-independent' minds suggests a future where human consciousness could be integrated with digital systems, fundamentally redefining what it means to be human.",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "rd-046",
+    "title": "The Decline of Hegemony and Multipolarity",
+    "content": "Contemporary international relations are marked by the relative decline of traditional unipolar dominance and the emergence of a multipolar global order. As rising powers assert their economic and military influence, the established norms of global governance are being challenged. This transition period is often characterized by heightened volatility, as competing interests vie for regional and international supremacy. Scholars of realpolitik analyze how these shifting dynamics affect trade agreements and security alliances. The ability of international institutions to adapt to this new multipolar reality will determine the stability of the global system in the coming decades.",
+    "difficultyLevel": 5,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "rd-047",
+    "title": "Quantum Entanglement and Non-Locality",
+    "content": "Quantum entanglement is a phenomenon where particles become interconnected in such a way that the state of one instantaneously influences the state of another, regardless of the distance separating them. This concept of 'non-locality' directly challenges the classical principle that information cannot travel faster than light. While the mathematical foundations of quantum mechanics are robust, the philosophical implications remain a subject of intense scrutiny. Experiments verifying entanglement have laid the groundwork for quantum communication and teleportation. However, the reconciliation of these findings with general relativity remains one of the unresolved frontiers of theoretical physics.",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "rd-048",
+    "title": "The Decolonial Turn in Contemporary Sociology",
+    "content": "The 'decolonial turn' represents a critical theoretical shift in sociology that seeks to dismantle the Eurocentric intellectual structures that emerged during the era of modern imperialism. This movement emphasizes the importance of 'epistemic justice,' advocating for the inclusion of indigenous and non-Western perspectives in the study of social structures and power. By critiquing the ways in which colonial legacies persist in modern institutions, scholars aim to foster more inclusive and equitable societal models. This academic endeavor challenges the universality of Western sociological frameworks and highlights the diverse ways in which communities organize and understand their existence.",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "rd-049",
+    "title": "Automated Logistics and the Future of Labor",
+    "content": "The rapid automation of logistics and supply chain management—driven by robotics and machine learning—is poised to disrupt traditional labor markets on a global scale. While proponents highlight the gains in efficiency and reduced operational costs, the social implications for the workforce are profound. Many low-skilled roles are increasingly vulnerable to replacement, prompting a significant redistribution of economic returns. The challenge for policymakers lies in facilitating a transition to high-skilled labor without exacerbating existing income inequalities. Addressing the displacement caused by automation requires a fundamental rethink of vocational training and the social contract.",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "rd-050",
+    "title": "The Cognitive Science of Decision-Making",
+    "content": "Advanced research in cognitive science has identified the intricate biases and heuristics that govern human decision-making, complicating the classical economic model of the 'rational actor.' Kahneman and Tversky’s work demonstrated that individuals often rely on intuitive shortcuts that lead to systematic errors in judgment. Understanding the neural basis of these processes involves analyzing the interplay between the emotional amygdala and the analytical prefrontal cortex. These insights have broad applications in fields ranging from public policy to behavioral economics, as researchers seek to 'nudge' individuals toward decisions that improve their long-term health and financial stability.",
+    "difficultyLevel": 5,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": "bb874f00-ff6a-49f1-90eb-a5928e1c2212",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 3,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "4a2c99ba-d923-48a8-a23a-7ff10257055c",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "66cbb7e5-db45-472f-a824-163d2d83b6ed",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "d8d0a254-dca0-41f2-9cb4-a336df4c1ebb",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "c1e64539-f738-4e4b-a025-1f915899be74",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "10c2ea7a-3b8f-44ff-961b-32a857acda92",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "0429112d-bec5-44e8-b875-7cd22e2b8b57",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "c3b58afa-5ecc-4746-9d8f-727fc6c67e1e",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "26f51372-1962-4852-90d1-1b9c20fdd182",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "5c053e6b-3399-4195-bf83-2741ea5df24c",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 3,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "a6e9d661-8b8e-47c2-9fd7-41a8ca062546",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 3,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "da830630-e707-4f74-95ca-4659a330b05b",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "153566de-accf-47bc-a9d9-8325a72c1ad1",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "34fc9dad-2b8b-4eb5-82a9-da65729b3345",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "1b933483-e27f-472a-bc81-4aabd1bed11f",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "842f20dd-e96c-45eb-8731-a1bfb37b4178",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "d37b5353-b954-44f8-b21b-6c5a4aa53fcb",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "948af9ba-9b80-46a3-9ff4-d85d4f938596",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 3,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "47341309-8526-44e1-9137-c820c9ddf262",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 3,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "34859321-9ecd-49a8-b986-987362c4c283",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "8d753063-258f-4f84-be98-840ac083eb56",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "dc827e6b-e2d2-492c-810f-419acf4f4274",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 3,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "7fc13096-0475-479f-9a38-bd67db00534b",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 3,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "adefafa8-4ba4-473e-8eaf-5c26fc9aff15",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "951e1e21-ba93-44e7-9b06-f590f8908772",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "5ec5224b-f555-43d9-a087-04c375665e34",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "b83e5cca-d135-4ff2-805f-5598bdca9d22",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "770e054b-e9f8-4133-a0d8-1e71c6139cf6",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "d283d06f-997a-4854-a581-8e5af10f8230",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 3,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "76353a59-07f5-4605-ae82-9a90111cfdb9",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "e882d290-a370-433e-9958-7a94975aa17a",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 3,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "a981c2cb-205f-47dc-a423-86fe6adab012",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "54547c58-ef80-4eb8-8b71-6b48d14e7f4a",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "32dd5756-964c-4112-88f2-0e65050d303f",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "2cef6028-cf13-4a3f-9c6c-37cbd8ddc777",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "e64889c6-169c-4e6d-9596-aa07aa69cadf",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 3,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "9b3893ff-827e-4b84-acdf-60e1fdad81c0",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 3,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "4da0067f-1f98-40e4-b9d2-96b46dc899f8",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "41835ff5-486d-4b02-b85a-3f993828789f",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 3,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "4836687a-97e6-4868-b83b-6eec219fe3ca",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "724e80ba-3b54-40ef-bf0d-f7a2d69603ea",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 3,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "0501a7c0-5dff-473a-b964-f6a9ef327eb0",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 3,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "cfb23a2d-02a8-4ae8-82a5-0ee1535be911",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 3,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "e1123ae3-b25a-40fc-a897-85528f596e52",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "e8b69af2-f3fe-49c5-9c32-a323dcf5f197",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "b1bbc6d3-603a-4354-8b3a-f15bad27fe35",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "5113b43e-b223-488f-b0b0-c97131a9fb38",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri"
+  },
+  {
+    "id": "cc7a3acb-6a5c-4555-9d4f-b1d8cb9f26fc",
+    "title": "Sociological research over the past...",
+    "content": "Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists... Sociological research over the past decade indicates a significant shift in urban demographic patterns. The migration from rural to metropolitan areas presents both economic opportunities and infrastructural challenges for local governments. Addressing these shifts requires a multidisciplinary approach involving urban planners, economists, and sociologists...",
+    "difficultyLevel": 3,
+    "category": "Sosyal Bilimler"
+  },
+  {
+    "id": "bc44aa0a-842d-4ace-bdae-59effefd3003",
+    "title": "Recent studies in molecular biology...",
+    "content": "Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications... Recent studies in molecular biology have revealed new pathways for cellular regeneration. The application of these findings in clinical trials has shown promising results for patients suffering from chronic tissue damage. Researchers emphasized that further longitudinal studies are required to comprehensively understand the long-term implications...",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri"
+  },
+  {
+    "id": "2209ae57-675f-4408-ac35-11b834d7f770",
+    "title": "Advancements in quantum computing have...",
+    "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
+    "difficultyLevel": 3,
+    "category": "Fen Bilimleri"
+  }
+]

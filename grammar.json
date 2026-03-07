@@ -1,0 +1,60 @@
+[
+  {
+    "id": "gram-01",
+    "title": "Tenses (Zamanlar) - Hap Bilgiler",
+    "content": "Zaman sorularında kural basittir:\n⏰ Present ile Present/Future, Past ile Past anlaşır!\n\n💡 En Çok Çıkan İpuçları:\n1. Simple Present (V1): always, usually, often, generally, every year. (Gerçekler, alışkanlıklar)\n2. Present Continuous (am/is/are V-ing): now, currently, at present, nowadays.\n3. Simple Past (V2): yesterday, last week, in 1990, ago. (Geçmişte biten, net tarih!)\n4. Past Continuous (was/were V-ing): Geçmişte olurken kesilen hikaye. (while he was running...)\n5. Present Perfect (have/has V3): recently, lately, so far, up to now, since, for. (Geçmişte başladı devam ediyor ya da etkisi sürüyor.)\n6. Past Perfect (had V3): BEFORE ve AFTER ile gelir. (Geçmişin de geçmişi: Tren gitmişti ben vardığımda)\n\nYDS Tüyosu: Cümlede 'since' varsa sağ tarafı koca bir 'PAST SIMPLE (V2)' ister, sol tarafı ise 'PRESENT PERFECT (have/has V3)' olur.",
+    "exampleSentence": "💡 Örnek Cümle: Since the industrial revolution began in the 18th century, the global average temperature has increased significantly."
+  },
+  {
+    "id": "gram-02",
+    "title": "Modals (Kip Fiiller)",
+    "content": "Modals, fiillere yetenek, izin, olasılık, gereklilik ve zorunluluk gibi anlamlar katan kelimelerdir.\n\n🔑 Önemli Modal Kullanımları:\n• Can / Could: Yetenek veya olasılık bildirir.\n• May / Might: Düşük olasılık bildirir (belki anlamında). Sınavlarda bilimsel ihtimallerde çok çıkar.\n• Must / Have to: Zorunluluk bildirir. Must içten gelen, have to dıştan gelen çevresel zorunluluktur.\n• Should / Ought to: Tavsiye ve öneri bildirir.\n\n⏳ Perfect Modals (Geçmiş Modallar):\nYDS'de en çok sorulan kısım burasıdır!\n• Should have V3: Yapmalıydı ama yapmadı. (Pişmanlık)\n• Must have V3: Yapmış olmalı. (Geçmişe dair güçlü tahmin)\n• Could have V3: Yapabilirdi ama yapmadı.\n• Can't have V3: Yapmış olamaz. (Kesin imkansızlık tahmini)",
+    "exampleSentence": "💡 Örnek Cümle: The dinosaurs must have died out due to a catastrophic asteroid impact about 66 million years ago."
+  },
+  {
+    "id": "gram-03",
+    "title": "Passive Voice (Edilgen Çatı)",
+    "content": "İngilizcede işi yapanın kim olduğunun önemli olmadığı (veya bilinmediği) durumlarda kullanılır. Özellikle YÖKDİL ve YDS'nin akademik metinlerinde her 3 cümleden biri Passive'dir.\n\nKural: [to be] + Verb 3 (Fiilin 3. hali)\n\nÖrnekler:\n• Active: Alexander Fleming discovered penicillin in 1928.\n• Passive: Penicillin was discovered by Alexander Fleming in 1928.\n\nTense'lere Göre Passive Kalıpları:\n- Present Simple: is/are + V3\n- Past Simple: was/were + V3\n- Present Perfect: has/have been + V3\n- Future Simple: will be + V3\n- Modals: must be + V3 / should be + V3",
+    "exampleSentence": "💡 Örnek Cümle: The new hospital was constructed by the government to serve the rural population more effectively."
+  },
+  {
+    "id": "gram-04",
+    "title": "Conditionals (If Clause - Şart Cümleleri)",
+    "content": "Şart cümleleri 'Eğer ... olursa, ... olur.' anlamını taşır. Toplam 4 farklı ana tipi vardır:\n\n• Type 0: Genel geçer bilimsel gerçekler.\n[If + Present Simple], [Present Simple]\nÖrn: If you boil water, it evaporates.\n\n• Type 1: Gelecekte gerçekleşme ihtimali olan koşullar.\n[If + Present Simple], [Will / Can / May + V1]\nÖrn: If it rains tomorrow, we will stay at home.\n\n• Type 2: Şu an (Present) için hayali ve gerçeğe zıt koşullar.\n[If + Past Simple], [Would / Could / Might + V1]\nÖrn: If I had 1 million dollars (I don't), I would buy an island.\n\n• Type 3: Geçmiş (Past) için hayali ve iptal olmuş koşullar (Pişmanlıklar).\n[If + Past Perfect], [Would have V3 / Could have V3]\nÖrn: If I had studied for YDS, I would have passed. (Çalışmadım ve geçemedim.)",
+    "exampleSentence": "💡 Örnek Cümle: If the government had invested more heavily in renewable energy, the country would have reduced its carbon footprint by now."
+  },
+  {
+    "id": "gram-05",
+    "title": "Gerunds & Infinitives (İsim Fiiller)",
+    "content": "Bir fiilin cümlede isim gibi kullanılmasıdır.\n\n1. Gerund (V-ing): Fiile -ing takısı eklenerek yapılır.\nKullanım yerleri:\n- Prepositionlardan (in, on, at, of, for vb.) sonra KESİNLİKLE Gerund gelir.\n- Bazı fiillerden sonra: enjoy, mind, suggest, avoid, risk, consider. (Örn: I avoid eating junk food.)\n\n2. Infinitive (To + V1): Fiilin başına 'to' gelmesiyle oluşur.\nKullanım yerleri:\n- Amaç bildirirken (için anlamında).\n- Sıfatlardan sonra.\n- Bazı fiillerden sonra: decide, expect, hope, promise, refuse, want. (Örn: I decided to learn English.)\n\nNot: 'Stop' fiili her ikisini de alabilir ama anlam değişir:\nStop smoking: Sigara içmeyi bırakmak (Gerund)\nStop to smoke: Sigara içmek için durmak (Infinitive)",
+    "exampleSentence": "💡 Örnek Cümle: The committee suggested establishing a new framework to avoid repeating the same mistakes."
+  },
+  {
+    "id": "gram-06",
+    "title": "Relative Clauses (Sıfat Cümlecikleri)",
+    "content": "Relative Clause, kendinden önce gelen ismi tanımlayan cümleciğe denir. Akademik çevirilerde yan cümleciği ana cümleye bağlamak için hayat kurtarır.\n\nRelative Pronouns (Bağlaçlar):\n• Who / That: İnsanları tanımlar. (The man who lives next door)\n• Which / That: Cansızları ve hayvanları tanımlar. (The book which is on the table)\n• Whose: Sahiplik bildirir. İnsanlar ve cansızlar için kullanılır (... -nın). (The woman whose car was stolen)\n• Where: Yer bildirir. (The city where I was born)\n• When: Zaman bildirir. (The day when we met)\n\nYDS İpucu: Eğer 'Which' ya da 'Who'dan sonra doğrudan bir İSİM/ZAMİR geliyorsa bu Relative Pronoun atılabilir (Omission). Ancak kendisinden sonra doğrudan FİİL geliyorsa atılamaz.",
+    "exampleSentence": "💡 Örnek Cümle: The researcher, whose findings were published last month, has received a prestigious international award."
+  },
+  {
+    "id": "gram-07",
+    "title": "Noun Clauses (İsim Cümlecikleri)",
+    "content": "Noun Clause, tek başına bir cümlenin sanki tek bir \"isim\" (özne veya nesne) gibi kullanılmasıdır.\n\nÜç ana yapısı vardır:\n\n1. That ile yapılanlar (Gerçekleşmiş veya kesin olan durumlar):\nÖrn: That the earth is round is a known fact. (Dünyanın yuvarlak olduğu bilinen bir gerçektir.)\n\n2. Question Words (Soru kelimeleri - Wh-/How) ile yapılanlar:\nÖrn: I don't know where he lives. (Nerede yaşadığını bilmiyorum.) -> Dikkat: Noun clause içinde devrik soru yapısı değil, düz cümle yapısı (Özne + Fiil) kullanılır.\n\n3. If/Whether ile yapılanlar (-ıp ıpmadığı anlamını katar):\nÖrn: I am not sure whether it will rain tomorrow. (Yarın yağmur yağıp yağmayacağından emin değilim.)",
+    "exampleSentence": "💡 Örnek Cümle: That climate change will have devastating consequences on coastal cities is a widely accepted fact."
+  },
+  {
+    "id": "gram-08",
+    "title": "Conjunctions (Bağlaçlar) - Zıtlık",
+    "content": "YDS/YÖKDİL sınavında EN ÇOK sorunun geldiği kısımdır. Zıtlık bağlaçları beklemediğimiz sonuçları bağlar.\n\n1. Cümle alan zıtlık bağlaçları (Arkalarından Özne + Yüklem gelir):\n• Although / Even though / Though: -e rağmen\nÖrn: Although it was raining, we went out.\n• While / Whereas: Oysa, -iken (Karşılaştırma ve kıyaslama yapar).\nÖrn: While mercury is liquid, other metals are solid.\n\n2. İsim / V-ing alan zıtlık bağlaçları (Arkalarından cümle gelmez):\n• Despite / In spite of: -e rağmen\nÖrn: Despite the rain, we went out. (Yağmura rağmen dışarı çıktık.)",
+    "exampleSentence": "💡 Örnek Cümle: Although the initial experiments yielded promising results, the subsequent trials completely failed to prove the hypothesis."
+  },
+  {
+    "id": "gram-09",
+    "title": "Conjunctions (Bağlaçlar) - Sebep / Sonuç",
+    "content": "Neden - sonuç ilişkisi kuran bağlaçlardır. \n\n1. Sebep Bildirenler (Çünkü, -den dolayı):\n• Cümle Alanlar (Özne+Yüklem): Because, Since, As, Seeing that, Now that (Madem ki)\nÖrn: Since he was late, he missed the train.\n• İsim Alanlar (-den dolayı): Because of, Due to, Owing to, As a result of\nÖrn: Due to heavy traffic, I was late.\n\n2. Sonuç Bildirenler (Bu yüzden, sonuç olarak):\n• Therefore, Thus, Hence, As a result, Consequently, For this reason\nÖrn: The demand increased; therefore, the prices went up.\n(*Bu gruptakiler cümle ortasında kullanıldıklarında genellikle noktalı virgül (;) veya nokta (.) sonrası başlarlar.)"
+  },
+  {
+    "id": "gram-10",
+    "title": "Prepositions (Edatlar)",
+    "content": "Edatlar, İngilizcenin en kafa karıştırıcı ama ezberlendiğinde en kolay puan getiren konusudur.\n\nZaman Edatları (In, On, At):\n• At: Saatler (at 5 o'clock), bazı zaman dilimleri (at night, at the weekend).\n• On: Günler (on Monday), tarihler (on May 5th).\n• In: Aylar, yıllar, mevsimler ve uzun zaman dilimleri (in 1990, in summer, in the 21st century).\n\nYDS/YÖKDİL'in Favori Fiil + Preposition Yönelimleri:\n• Depend ON / Rely ON (Bağlı olmak, güvenmek)\n• Lead TO / Contribute TO (Yol açmak, katkı sağlamak)\n• Deal WITH / Cope WITH (Başa çıkmak, ilgilenmek)\n• Suffer FROM / Result FROM (-den muzdarip olmak, -den kaynaklanmak)\n• Result IN (İle sonuçlanmak)\n• Consist OF (-den oluşmak)"
+  }
+]
