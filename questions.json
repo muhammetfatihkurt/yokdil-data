@@ -2308,5 +2308,425 @@
     ],
     "correctAnswerIndex": 1,
     "explanation": "Future Perfect (By the time + Present -> Future Perfect)."
+  },
+  {
+    "id": "q166",
+    "questionText": "(I) The Great Barrier Reef is the world's largest coral reef system. (II) It is composed of over 2,900 individual reefs and 900 islands. (III) Many tourists visit Australia to see its beautiful beaches. (IV) The reef is located in the Coral Sea, off the coast of Queensland. (V) It supports a wide diversity of life, including many vulnerable species.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Paragraf Büyük Set Resifi'ni anlatırken, III numaralı cümle genel olarak Avustralya plajlarından bahsettiği için akışı bozmaktadır."
+  },
+  {
+    "id": "q167",
+    "questionText": "(I) Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods. (II) It generally involves the green pigment chlorophyll and generates oxygen as a byproduct. (III) Most people prefer gardening in the early morning or evening. (IV) Without this process, life on Earth as we know it would not be possible. (V) Plants also play a crucial role in maintaining the balance of ecosystems.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "I, II, IV ve V numaralı cümleler fotosentezi anlatırken, III numaralı cümle bahçecilik alışkanlıklarından bahsettiği için ilgisizdir."
+  },
+  {
+    "id": "q168",
+    "questionText": "(I) The Amazon Rainforest, often called the 'lungs of the world', is a vital part of the global ecosystem. (II) It covers much of northwestern Brazil and extends into other South American countries. (III) Brazil is the largest country in South America by both land area and population. (IV) The forest is home to millions of species, many of which are yet to be discovered. (V) However, deforestation is threatening this rich biodiversity.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Amazon ormanları anlatılırken, III numaralı cümlenin Brezilya'nın yüzölçümü ve nüfusu hakkında bilgi vermesi akışı bozuyor."
+  },
+  {
+    "id": "q169",
+    "questionText": "(I) Renewable energy sources, such as wind and solar power, are becoming increasingly important. (II) They provide a cleaner alternative to fossil fuels, which release harmful greenhouse gases. (III) Electric cars are also gaining popularity as an eco-friendly mode of transport. (IV) Investing in these technologies is essential for reducing the global carbon footprint. (V) Many countries are now setting ambitious targets for a green energy transition.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ana konu 'yenilenebilir enerji kaynakları' iken, III numaralı cümlede 'elektrikli arabalara' geçilmesi odağı dağıtmaktadır."
+  },
+  {
+    "id": "q170",
+    "questionText": "(I) The Roman Empire was one of the greatest civilizations in human history. (II) It expanded its territory across Europe, Africa, and Asia during its peak. (III) Romans were famous for their engineering skills, building durable roads and aqueducts. (IV) Modern Italian food is loved by people all over the world for its flavors. (V) Eventually, internal conflicts and external invasions led to the empire's decline.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Roma İmparatorluğu tarihi anlatılırken, IV numaralı cümlede modern İtalyan yemeklerinden bahsedilmesi ilgisizdir."
+  },
+  {
+    "id": "q171",
+    "questionText": "(I) Exercise is essential for maintaining both physical and mental health. (II) It helps in reducing stress and improving mood by releasing endorphins. (III) A healthy diet is also important for providing the body with necessary nutrients. (IV) Regular physical activity can lower the risk of chronic diseases like diabetes. (V) Moreover, it can improve sleep quality and boost overall energy levels.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Egzersizin faydaları anlatılırken, III numaralı cümlede aniden 'beslenme' konusuna girilmesi akışı bozmaktadır."
+  },
+  {
+    "id": "q172",
+    "questionText": "(I) Artificial Intelligence has the potential to transform various industries, including healthcare and finance. (II) AI algorithms can analyze large amounts of data to provide more accurate diagnoses. (III) Many universities now offer specialized courses on data science and machine learning. (IV) In the finance sector, it can help in fraud detection and personalized banking. (V) However, workers are concerned about automation leading to significant job losses.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Yapay zekanın uygulama alanları anlatılırken, III numaralı cümlede üniversite derslerinden bahsedilmesi akışı bozuyor."
+  },
+  {
+    "id": "q173",
+    "questionText": "(I) Space exploration has led to many scientific breakthroughs that benefit life on Earth. (II) Satellite technology allows us to have better communication and weather forecasting systems. (III) The cost of launching rockets has decreased significantly in recent years. (IV) Without these advancements, GPS navigation would not be possible for most people. (V) Furthermore, research on the International Space Station helps us understand the effects of long-term space travel.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Uzay araştırmalarının Dünya'daki faydaları anlatılırken, III numaralı cümlede roket maliyetlerine değinilmesi teknik bir detay olup akışı bozmaktadır."
+  },
+  {
+    "id": "q174",
+    "questionText": "(I) The library is a place where people can access a wide range of information and resources. (II) It provides a quiet environment for studying and research. (III) Many libraries now offer free access to digital books and online databases. (IV) Librarians are often highly trained professionals who help visitors find the information they need. (V) The local community center also hosts various events and workshops.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 4,
+    "explanation": "Kütüphane hizmetleri anlatılırken, V numaralı cümlede halk eğitim merkezinden (community center) bahsedilmesi ilgisizdir."
+  },
+  {
+    "id": "q175",
+    "questionText": "(I) Migration is a complex phenomenon driven by various factors, including war and economic hardship. (II) People often move to other countries in search of better job opportunities and safety. (III) Learning a new language can be a challenging but rewarding experience for many migrants. (IV) International organizations work to protect the rights of refugees and displaced people. (V) Host countries face the challenge of integrating large numbers of newcomers into their society.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Göçün nedenleri ve sonuçları anlatılırken, III numaralı cümlede dil öğrenmenin zorluğundan bahsedilmesi odağı bireysel bir tecrübeye çekerek akışı bozmaktadır."
+  },
+  {
+    "id": "q176",
+    "questionText": "(I) Volcanic eruptions are powerful natural events that can have a significant impact on the environment. (II) They release large amounts of ash and gases into the atmosphere, which can affect global temperatures. (III) Many people enjoy visiting volcanic areas for tourism and sightseeing. (IV) Lava flows can destroy habitats and property in the immediate vicinity of the volcano. (V) Over time, however, volcanic soil becomes highly fertile and supports rich agriculture.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Volkanizmanın çevresel etkileri anlatılırken, III numaralı cümlede turizmden bahsedilmesi akışı bozmaktadır."
+  },
+  {
+    "id": "q177",
+    "questionText": "(I) Reading books is a great way to expand your knowledge and improve your vocabulary. (II) It allows you to explore different cultures and perspectives from around the world. (III) Audiobooks have become very popular among people who spend a lot of time commuting. (IV) Furthermore, reading can help reduce stress and improve your concentration skills. (V) It is often recommended as a relaxing activity before going to bed.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kitap okumanın yararları anlatılırken, III numaralı cümlede 'sesli kitapların popülerliği' konusuna girilmesi akışı bozuyor."
+  },
+  {
+    "id": "q178",
+    "questionText": "(I) The internet has changed the way we communicate and access information forever. (II) Social media platforms allow us to connect with friends and family across the globe. (III) Cyberbullying is a serious issue that affects many people in the digital age. (IV) We can now share photos and videos instantly with millions of people. (V) This constant connectivity has made it easier to stay informed about global events.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "İnternetin iletişimdeki olumlu ve genel etkileri anlatılırken, III numaralı cümlede aniden 'siber zorbalık' gibi spesifik bir soruna değinilmesi akışı bozmaktadır."
+  },
+  {
+    "id": "q179",
+    "questionText": "(I) Biodiversity is essential for a stable ecosystem and the health of our planet. (II) Every species, no matter how small, plays a unique role in the natural cycle. (III) National parks are popular destinations for families who enjoy outdoor activities. (IV) The loss of a single species can have a ripple effect on the entire ecosystem. (V) Therefore, protecting endangered species is a crucial task for environmentalists.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Biyoçeşitlilik ve ekosistem dengesi anlatılırken, III numaralı cümlede milli parkların aileler için popülerliği konusuna girilmesi ilgisizdir."
+  },
+  {
+    "id": "q180",
+    "questionText": "(I) The Rosetta Stone was a major discovery that allowed historians to decipher Egyptian hieroglyphs. (II) It was found by French soldiers in 1799 during Napoleon's campaign in Egypt. (III) Egypt is home to many ancient monuments, including the Great Pyramids of Giza. (IV) The stone features the same text in three different scripts, providing a key for translation. (V) Today, it is one of the most visited artifacts in the British Museum.",
+    "testType": "Anlam Akışını Bozan Cümle",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Rosetta Taşı'nın keşfi ve önemi anlatılırken, III numaralı cümlede genel olarak Mısır'daki anıtlardan bahsedilmesi akışı bozmaktadır."
+  },
+  {
+    "id": "q181",
+    "questionText": "It wasn't until the end of the 19th century that scientists began to understand the true nature of atoms.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "Scientists understood the nature of atoms long before the 19th century ended.",
+      "Before the end of the 19th century, the true nature of atoms was not understood by scientists.",
+      "The end of the 19th century was when scientists first refused to study atoms.",
+      "The nature of atoms was discovered accidentally in the early 19th century.",
+      "Atoms were widely understood throughout most of the 19th century."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'It wasn't until...' yapısı, o zamana kadar gerçekleşmediğini ifade eder. Dolayısıyla 19. yüzyıl sonuna kadar anlaşılmadığı anlamını verir."
+  },
+  {
+    "id": "q182",
+    "questionText": "If only he had followed my advice, he wouldn't be in such a difficult situation now.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "He is in a difficult situation now because he didn't listen to me.",
+      "He followed my advice and yet he is in a difficult situation.",
+      "I advice him to stay in a difficult situation as long as possible.",
+      "He wouldn't listen to me, so he is not in a difficult situation.",
+      "He is now happy that he ignored everything I told him to do."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Keşke sözümü dinleseydi (ama dinlemedi) ve şu an zor durumda (çünkü dinlemedi)."
+  },
+  {
+    "id": "q183",
+    "questionText": "The outcome of the experiment was quite different from what the researchers had expected.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "Researchers expected the experiment to yield the results they got.",
+      "The experiment's results matched the initial predictions of the team.",
+      "The results of the study surprised the researchers as they were unexpected.",
+      "Expectations and results of the experiment were identical.",
+      "Researchers were happy because they got exactly what they expected."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Beklenenden 'farklı' (different) çıkması, sonucun 'beklenmedik/şaşırtıcı' (unexpected/surprised) olması demektir."
+  },
+  {
+    "id": "q184",
+    "questionText": "You can borrow my car as long as you promise to drive carefully.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "You cannot borrow my car even if you drive carefully.",
+      "Providing that you drive with care, you are allowed to use my car.",
+      "I will lend you my car after you return from your long trip.",
+      "My car is too old to be driven carefully by anyone.",
+      "You must promise to buy me a new car if you borrow mine."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'As long as' koşul bildirir (-dığı sürece). 'Providing that' de aynı şekilde koşul bildirir."
+  },
+  {
+    "id": "q185",
+    "questionText": "Unless we reduce our carbon footprint, global warming will continue to worsen.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "If we do not decrease our carbon emissions, the climate crisis will get even more serious.",
+      "Global warming will stop even if we keep our carbon footprint high.",
+      "Reducing carbon footprint has no effect on the process of global warming.",
+      "We must stop global warming before we start reducing our carbon footprint.",
+      "The climate is getting better despite the increase in carbon emissions."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Unless' (-mezse), 'If not' anlamındadır. Karbon ayak izimizi azaltmazsak durum kötüleşecek."
+  },
+  {
+    "id": "q186",
+    "questionText": "Scarcely had the game begun when it started to rain heavily.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "The rain started long after the game had already finished.",
+      "Wait until the game begins before it starts raining heavily.",
+      "As soon as the game started, a heavy rain began to fall.",
+      "The game was cancelled because it was expected to rain.",
+      "It didn't rain until the final whistle of the game was blown."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Scarcely ... when' (yapar yapmaz) kalıbı, 'as soon as' ile aynı anlamı verir."
+  },
+  {
+    "id": "q187",
+    "questionText": "The new law aims to provide better protection for the rights of minorities.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "Minorities will have fewer rights under the provisions of the new law.",
+      "The purpose of the new legislation is to enhance the protection of minority rights.",
+      "The law was rejected because it ignored the rights of minorities.",
+      "Protection for minorities has been the same for many decades.",
+      "Legislators are not interested in the rights of minority groups."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Aims to provide better protection' = 'purpose is to enhance protection'."
+  },
+  {
+    "id": "q188",
+    "questionText": "It is much more difficult to learn a new language as an adult than as a child.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "Adults find it easier to master a language compared to children.",
+      "Children have more difficulty learning languages than older people.",
+      "Learning a language is less challenging for children than it is for adults.",
+      "Language learning is equally difficult for both children and adults.",
+      "Adults should not try to learn a new language due to the difficulty."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Erişkinlerin öğrenmesi daha zorsa, çocukların öğrenmesi 'daha az zordur' (less challenging)."
+  },
+  {
+    "id": "q189",
+    "questionText": "Hardly anyone believed that the small startup would become a global giant.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "Almost everyone was sure that the startup would be successful.",
+      "The success of the startup was expected by the majority of people.",
+      "Very few people thought the startup would achieve such massive success.",
+      "The startup failed because no one believed in its future potential.",
+      "Everyone knew that the startup was destined for greatness from the start."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Hardly anyone' (neredeyse hiç kimse), 'very few people' (çok az kişi) demektir."
+  },
+  {
+    "id": "q190",
+    "questionText": "Despite her fatigue, she insisted on finishing the marathon.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "She was too tired to finish the marathon, so she gave up.",
+      "Although she was exhausted, she refused to stop running the marathon.",
+      "Because she wasn't tired, she easily finished the marathon.",
+      "She finished the marathon only after she had a long rest.",
+      "Insisting on finishing the marathon made her feel very tired."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Despite' (rağmen) ile 'Although' (rağmen) aynı anlam yüküne sahiptir."
+  },
+  {
+    "id": "q191",
+    "questionText": "No sooner had I reached the station than the train pulled out.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "The train left just as I arrived at the station.",
+      "I reached the station long after the train had departed.",
+      "The train was delayed, so I had to wait for it at the station.",
+      "I saw the train arriving while I was still far from the station.",
+      "I decided not to go to the station because the train was gone."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'No sooner ... than' (olmasıyla bir oldu) yapısı 'just as' ile karşılanır."
+  },
+  {
+    "id": "q192",
+    "questionText": "The discovery of penicillin revolutionized the treatment of bacterial infections.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "Bacterial infections became untreatable after the discovery of penicillin.",
+      "Penicillin had a minor impact on how bacterial infections were treated.",
+      "The way bacterial infections were treated was fundamentally changed by penicillin.",
+      "Before penicillin, there were many other ways to treat infections.",
+      "Treatment of infections remained the same despite the discovery of penicillin."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Revolutionized' (devrim yaptı), 'fundamentally changed' (temelden değiştirdi) demektir."
+  },
+  {
+    "id": "q193",
+    "questionText": "The boss is in such a bad mood that no one dares to talk to him today.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "The boss is so happy that everyone wants to have a chat with him.",
+      "Because the boss is feeling very angry, everyone is avoiding speaking to him.",
+      "No one wants to talk to the boss because he is always very busy.",
+      "The boss's mood has no effect on whether people talk to him or not.",
+      "Even the bravest employees are talking to the boss today."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'In a bad mood' (kötü ruh halinde/sinirli), 'feeling very angry' ile benzerdir."
+  },
+  {
+    "id": "q194",
+    "questionText": "She would have come to the party if she had been invited.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "She was invited to the party but she decided not to come.",
+      "She came to the party because she received a late invitation.",
+      "The reason she didn't attend the party was that she wasn't invited.",
+      "She will come to the future parties even if she is not invited.",
+      "Not being invited didn't stop her from coming to the party."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Davet edilseydi gelirdi (ama edilmedi, o yüzden gelmedi)."
+  },
+  {
+    "id": "q195",
+    "questionText": "As long as you study regularly, you are likely to pass the entrance exam.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "Studying regularly is no guarantee of passing the entrance exam.",
+      "Unless you study very hard, you will definitely fail the exam.",
+      "You will probably succeed in the entrance exam if you maintain a regular study habit.",
+      "Passing the entrance exam depends on many factors other than studying.",
+      "Even without regular study, you are likely to pass the exam."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'As long as' (koşuluyla) ve 'likely to' (muhtemelen) ifadeleri 'if' ve 'probably' ile örtüşür."
   }
 ]
