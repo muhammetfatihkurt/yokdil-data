@@ -1,0 +1,84 @@
+[
+  {
+    "id": "c001",
+    "questionText": "The archaeological discovery in the region has ______ many previous theories about early human migration.",
+    "testType": "Kelime Bilgisi",
+    "options": ["challenged", "ignored", "neglected", "accepted", "supported"],
+    "correctAnswerIndex": 0,
+    "explanation": "'Challenged' (meydan okumak/sorgulatmak). Yeni keşif eski teorileri sorgulattı."
+  },
+  {
+    "id": "c002",
+    "questionText": "Although the team faced numerous challenges during the project, ______.",
+    "testType": "Cümle Tamamlama",
+    "options": ["they decided to give up immediately", "they were able to complete it on time", "everyone was very disappointed", "it was a total failure", "no one wanted to help them"],
+    "correctAnswerIndex": 1,
+    "explanation": "'Although' zıtlık bekler. Zorluklara rağmen 'zamanında bitirebildiler'."
+  },
+  {
+    "id": "c003",
+    "questionText": "The factory had to close down ______ the severe economic crisis.",
+    "testType": "Bağlaç & Edat",
+    "options": ["instead of", "due to", "although", "in order to", "so that"],
+    "correctAnswerIndex": 1,
+    "explanation": "'Due to' = -den dolayı. Kriz nedeniyle kapandı."
+  },
+  {
+    "id": "c004",
+    "questionText": "The rise of artificial intelligence raises important ethical and legal questions.",
+    "testType": "Çeviri Soruları",
+    "options": [
+      "Yapay zekanın yükselişi önemli etik ve yasal soruları gündeme getiriyor.",
+      "Yapay zeka geliştikçe etik ve hukuksal sorunlar da artmaya başladı.",
+      "Hukuk ve etik kuralları yapay zekanın gelişimiyle yeniden tartışılıyor.",
+      "Yapay zekanın sunduğu imkanlar kadar yarattığı etik sorunlar da büyüktür.",
+      "Etik ve yasal olarak yapay zekanın sınırları hala belirlenmiş değildir."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Raises questions = soruları gündeme getiriyor."
+  },
+  {
+    "id": "c005",
+    "questionText": "By the time we ______ at the station, the train had already left.",
+    "testType": "Gramer (Zaman/Yapı)",
+    "options": ["arrive", "arrived", "have arrived", "had arrived", "will arrive"],
+    "correctAnswerIndex": 1,
+    "explanation": "By the time + V2, had V3 kalıbı."
+  },
+  {
+    "id": "c006",
+    "questionText": "The internet has revolutionized the way we communicate. From social media to instant messaging, we are more connected than ever. ______. This constant availability can sometimes be overwhelming.",
+    "testType": "Paragraf Tamamlama",
+    "options": [
+      "However, there is a dark side to this constant connectivity.",
+      "Many people still prefer traditional letters.",
+      "The cost of internet is decreasing every day.",
+      "Social media is a great tool for marketing.",
+      "Cybersecurity is becoming more important."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'However' ile olumsuzluğa (overwhelming) geçiş yapılıyor."
+  },
+  {
+    "id": "c007",
+    "questionText": "(I) The Renaissance was a period of great artistic change. (II) It began in Italy and spread to the rest of Europe. (III) Most people in the Middle Ages were farmers. (IV) Famous artists like Da Vinci lived during this time. (V) It marked the end of the Middle Ages.",
+    "testType": "Akışı Bozan Cümle",
+    "options": ["I", "II", "III", "IV", "V"],
+    "correctAnswerIndex": 2,
+    "explanation": "III numaralı cümle genel köylülükten bahsediyor, Rönesans akışını bozuyor."
+  },
+  {
+    "id": "c008",
+    "questionText": "It wasn't until the end of the 19th century that scientists understood atoms.",
+    "testType": "Yakın Anlamlı Cümle",
+    "options": [
+      "Scientists understood atoms throughout the 19th century.",
+      "Before the 19th century ended, atoms were well understood.",
+      "Scientists first understood atoms only when the 19th century was ending.",
+      "Atoms were discovered at the beginning of the 19th century.",
+      "No one cared about atoms until the 20th century."
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'It wasn't until...' yapısı."
+  }
+]
