@@ -8,6 +8,17 @@
     "explanation": "'Challenged' (meydan okumak/sorgulatmak). Yeni keşif eski teorileri sorgulattı."
   },
   {
+    "id": "c02131",
+    "questionText": "The most powerful ---- to parachuting is fear, but
+one should also take its high cost into account, as a
+total outfit for parachuting can be extremely
+expensive.",
+    "testType": "Kelime Bilgisi",
+    "options": ["resemblance", "adjustment", "deterrent", "submission", "adherence"],
+    "correctAnswerIndex": 2,
+    "explanation": "'deterrent' Caydırıcı."
+  },
+  {
     "id": "c002",
     "questionText": "Although the team faced numerous challenges during the project, ______.",
     "testType": "Cümle Tamamlama",
