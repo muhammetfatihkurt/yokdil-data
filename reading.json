@@ -4,7 +4,81 @@
     "title": "A Healthy Morning Routine",
     "content": "Starting your day with a healthy routine is very important. Many people like to drink a glass of water first. Then, they do some simple exercises. A good breakfast gives you energy for the whole day. You should eat fruits and eggs. Walking in the fresh air is also good for your heart. If you follow these steps, you will feel better and stronger every morning.",
     "difficultyLevel": 1,
-    "category": "Genel Kültür"
+    "category": "Genel Kültür",
+    "importantWords": [
+      {
+        "word": "routine",
+        "meaning": "rutin, günlük iş"
+      },
+      {
+        "word": "healthy",
+        "meaning": "sağlıklı"
+      },
+      {
+        "word": "energy",
+        "meaning": "enerji, güç"
+      },
+      {
+        "word": "exercise",
+        "meaning": "egzersiz, antrenman"
+      },
+      {
+        "word": "stronger",
+        "meaning": "daha güçlü"
+      }
+    ],
+    "questions": [
+      {
+        "text": "What is important to start your day with?",
+        "options": [
+          "A healthy routine",
+          "Drinking coffee",
+          "Sleeping late",
+          "Watching TV"
+        ],
+        "correctAnswer": "A healthy routine"
+      },
+      {
+        "text": "According to the text, what do many people like to drink first?",
+        "options": [
+          "A glass of milk",
+          "A glass of water",
+          "Tea",
+          "Orange juice"
+        ],
+        "correctAnswer": "A glass of water"
+      },
+      {
+        "text": "What gives you energy for the whole day?",
+        "options": [
+          "Lunch",
+          "Dinner",
+          "A good breakfast",
+          "Snacks"
+        ],
+        "correctAnswer": "A good breakfast"
+      },
+      {
+        "text": "Which foods are mentioned to eat in the text?",
+        "options": [
+          "Vegetables and meat",
+          "Fruits and eggs",
+          "Bread and butter",
+          "Cheese and olives"
+        ],
+        "correctAnswer": "Fruits and eggs"
+      },
+      {
+        "text": "Why is walking in the fresh air good?",
+        "options": [
+          "For your heart",
+          "For your eyes",
+          "For your hair",
+          "For your legs"
+        ],
+        "correctAnswer": "For your heart"
+      }
+    ]
   },
   {
     "id": "rd-002",
@@ -698,5 +772,327 @@
     "content": "Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures... Advancements in quantum computing have accelerated the development of new cryptographic algorithms. Scientists at leading research institutes believe that achieving quantum supremacy will fundamentally alter our approach to data security. However, significant hardware challenges remain, particularly in maintaining qubit stability at room temperatures...",
     "difficultyLevel": 3,
     "category": "Fen Bilimleri"
+  },
+  {
+    "title": "The Role of Microbiome in Mental Health",
+    "content": "Recent studies have increasingly drawn attention to the gut-brain axis, a complex communication network linking our digestive system to our brain. Trillions of bacteria living in our gut, collectively known as the microbiome, do not merely aid in digestion; they also play a profound role in regulating mood and cognitive functions. Researchers have discovered that these microbes produce essential neurotransmitters like serotonin and dopamine. Therefore, alterations in gut flora have been strongly associated with mental health conditions, including depression and anxiety.",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd-1252e3d3"
+  },
+  {
+    "title": "Climate Change and Coastal Vulnerability",
+    "content": "Accelerating sea-level rise caused by global warming poses a devastating threat to coastal communities worldwide. As polar ice caps continue to melt at an unprecedented rate, low-lying coastal cities face increased risks of flooding and erosion. Governments are investing billions in building robust seawalls, yet some environmentalists argue that these are only temporary fixes. The long-term solution inevitably requires drastically reducing greenhouse gas emissions and transitioning to sustainable energy alternatives to halt the progression of climate change.",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd-e1538646"
+  },
+  {
+    "title": "Artificial Intelligence in Modern Healthcare",
+    "content": "The integration of artificial intelligence into medical diagnostics has initiated a paradigm shift in healthcare. Machine learning algorithms, trained on vast amounts of medical imaging data, can now detect signs of tumors with a precision that often rivals human radiologists. Furthermore, AI helps in personalizing treatment plans by identifying genetic markers in individual patients. While some express concerns regarding patient privacy and the potential for algorithmic bias, the overarching consensus is that AI will drastically improve early diagnosis and treatment outcomes.",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd-75577423"
+  },
+  {
+    "title": "The Psychological Impact of Urbanization",
+    "content": "The relentless migration of populations from rural areas to urban centers has profound socio-psychological implications. While cities offer greater economic opportunities and access to advanced healthcare, they also foster environments conducive to chronic stress. The constant noise, overcrowding, and severe lack of green spaces contribute to what sociologists term 'urban fatigue.' Consequently, urban planners are now emphasizing the importance of incorporating nature-based solutions, such as community parks and rooftop gardens, to mitigate the psychological toll of urban living.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd-79328afe"
+  },
+  {
+    "title": "Economic Inflation and Consumer Behavior",
+    "content": "Prolonged periods of economic inflation inevitably alter the purchasing habits of ordinary consumers. When the cost of essential goods, such as food and energy, rises steeply, households are forced to reconsider their discretionary spending. Retailers often report a significant shift as consumers lean towards discount brands and delay major purchases like vehicles or appliances. To counteract dwindling sales, companies frequently adopt aggressive promotional strategies, demonstrating how macroeconomic fluctuations directly dictate microeconomic decision-making.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd-6b913485"
+  },
+  {
+    "title": "Breakthroughs in Renewable Energy Storage",
+    "content": "A major limitation of renewable energy sources, precisely solar and wind power, has historically been their intermittency. The sun does not always shine, and the wind does not always blow. However, recent advancements in solid-state battery technology are promising to overcome this hurdle. These new batteries offer higher energy densities and drastically reduced fire risks compared to traditional lithium-ion variants. By efficiently storing surplus energy generated during peak conditions, these storage solutions are accelerating the global transition toward a carbon-neutral future.",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd-7eb98c32"
+  },
+  {
+    "title": "The Legacy of the Silk Road",
+    "content": "Spanning across Asia and connecting the East to the West, the ancient Silk Road was much more than a mere trading route for lucrative goods like silk and spices. It served as a vital artery for the massive cultural, religious, and technological exchange between distinct civilizations. Ideas regarding mathematics, astronomy, and philosophy were seamlessly transmitted alongside physical commodities. The profound enduring legacy of this historical network reminds us that globalization and intercultural dialogue are not exclusively modern phenomena.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd-2fd5c70e"
+  },
+  {
+    "title": "Advances in Gene Editing: CRISPR",
+    "content": "The advent of CRISPR-Cas9 technology has revolutionized the field of genetics by allowing scientists to alter DNA sequences with unprecedented precision and ease. This powerful tool holds the tremendous potential to eradicate inherited genetic disorders, such as cystic fibrosis and sickle cell anemia, before a child is even born. Nevertheless, the capability to edit human embryos raises profound ethical dilemmas. Many fear that without strict international regulations, this technology could ultimately lead to the controversial creation of 'designer babies.'",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd-6d95e7d5"
+  },
+  {
+    "title": "The Economics of Fast Fashion",
+    "content": "Fast fashion has dramatically transformed the global apparel industry by providing consumers with trendy, inexpensive clothing at lightning speed. By mass-producing garments to quickly mimic runway styles, companies achieve immense profit margins. Yet, this highly lucrative economic model carries substantial environmental and social costs. Copious amounts of water are consumed, and massive textile waste ends up in landfills annually. Furthermore, the relentless demand for cheap labor frequently results in severe exploitation of workers in developing nations.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd-ea3fe95c"
+  },
+  {
+    "title": "The Discovery of Exoplanets",
+    "content": "For centuries, humanity has pondered whether planetary systems exist beyond our own solar system. Thanks to advanced astronomical instruments like the Kepler Space Telescope, scientists have now confirmed the existence of thousands of exoplanets orbiting distant stars. Some of these celestial bodies exhibit conditions that are theoretically hospitable to liquid water, thus falling within the so-called 'habitable zone.' These ongoing discoveries not only redefine our understanding of the universe but also significantly fuel the search for extraterrestrial life.",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd-f7fef700"
+  },
+  {
+    "title": "The Importance of Sleep Hygiene",
+    "content": "Sleep hygiene refers to the recommended behavioral and environmental practices that promote consistent, uninterrupted sleep. Modern society's relentless reliance on electronic devices has severely disrupted our natural circadian rhythms, primarily due to the emission of blue light. Medical professionals strongly advocate abstaining from screen time at least one hour prior to bedtime. Consistently poor sleep hygiene is strongly linked to a multitude of severe health issues, including suppressed immunity, impaired memory, and a dramatically increased risk of cardiovascular disease.",
+    "difficultyLevel": 3,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd-5c12e3e8"
+  },
+  {
+    "title": "Linguistic Relativity and Thought",
+    "content": "The concept of linguistic relativity, often referred to as the Sapir-Whorf hypothesis, posits that the structure and vocabulary of a language fundamentally shape how its speakers perceive the world. For instance, cultures with multiple distinct words for varying shades of blue may actually visually distinguish those colors more swiftly than individuals whose language possesses only a single term. While extreme versions of this theory are heavily debated among linguists, substantial evidence suggests that language undeniably significantly influences cognitive categorization.",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd-f362ffaa"
+  },
+  {
+    "title": "Ocean Acidification: The Silent Crisis",
+    "content": "As the global atmosphere accumulates excessive amounts of carbon dioxide, the world's oceans absorb roughly a third of these harmful emissions. This massive absorption triggers a chemical reaction that dramatically lowers the water's pH level, a phenomenon known as ocean acidification. This highly acidic environment impairs the ability of marine organisms, such as corals and certain shellfish, to actively build and maintain their calcium carbonate shells. Ultimately, this devastating disruption drastically threatens total marine biodiversity and the global fishing economy.",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd-a4886afd"
+  },
+  {
+    "title": "The Philosophy of Stoicism Today",
+    "content": "Originating in ancient Greece and Rome, Stoicism is a philosophical school of thought that teaches the immense value of emotional resilience and self-control. It sternly advocates distinguishing between the elements we can control—such as our reactions and personal beliefs—and those we cannot, like external events and other people's opinions. In our highly unpredictable modern era, Stoicism has experienced a massive resurgence in popularity. Many individuals deliberately adopt its pragmatic principles to combat professional anxiety and navigate intricate personal challenges.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd-ff705ad5"
+  },
+  {
+    "title": "Nutrition and Cognitive Decline",
+    "content": "As the global population ages rapidly, preventing age-related cognitive decline has become a paramount public health priority. Emerging epidemiological research highlights the incredible protective effects of the Mediterranean diet, which is inherently rich in antioxidants, omega-3 fatty acids, and essential vitamins. Diets heavily saturated with heavily processed foods and refined sugars, conversely, provoke neuroinflammation and drastically accelerate brain aging. Consequently, proactively adopting optimal dietary habits in midlife is currently considered one of the most effective strategies to prevent dementia.",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd-d2a50b69"
+  },
+  {
+    "title": "Quantum Entanglement Explained",
+    "content": "Quantum entanglement is arguably one of the most perplexing phenomena in modern physics, famously described by Albert Einstein as 'spooky action at a distance.' It occurs when two distinct particles become securely linked, in such a manner that the physical state of one particle instantly determines the state of the other, regardless of the vast distance separating them. Although this blatantly contradicts classical mechanics, entanglement has been repeatedly proven experimentally and forms the essential basis for incredibly secure quantum cryptography.",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd-6988df2c"
+  },
+  {
+    "title": "The Shift Towards Remote Work",
+    "content": "The unprecedented global crisis recently acted as a profound catalyst for the widespread adoption of remote work. Organizations rapidly transitioned to digital communication platforms, discovering that productivity could often be maintained without mandatory physical office presence. This monumental shift has drastically reduced daily commuting times and significantly granted employees enhanced flexibility. However, it has also notoriously blurred the intricate boundaries between professional and personal life, sparking a massive ongoing debate about the long-term sustainability of exclusive work-from-home models.",
+    "difficultyLevel": 3,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd-f115b5f4"
+  },
+  {
+    "title": "The Mechanisms of Antibiotic Resistance",
+    "content": "The rampant misuse and extreme overprescription of antibiotics in both human medicine and agriculture have aggressively fueled exactly what the World Health Organization classifies as a massive global health crisis: antibiotic resistance. Bacteria naturally mutate rapidly; when persistently exposed to antibiotics, only the highly resistant strains survive and forcefully multiply. Consequently, historically manageable infections are rapidly becoming astonishingly lethal. Combating this pressing threat strictly requires developing novel antimicrobial drugs and rigorously enforcing exceptionally strict global dispensing regulations.",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd-519306e5"
+  },
+  {
+    "title": "Deforestation in the Amazon",
+    "content": "The Amazon Basin, frequently referred to as the 'lungs of the Earth,' is suffering from alarming rates of deforestation. Massive tracts of invaluable rainforest are systematically cleared for cattle ranching, illegal logging, and extensive agricultural expansion. This deliberate destruction not only releases colossal volumes of stored carbon dioxide into the fragile atmosphere but also aggressively drives countless exotic indigenous species toward absolute extinction. Environmentalists constantly emphasize that preserving this irreplaceable biome is fundamentally critical for maintaining global climate stability.",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd-3d825a0d"
+  },
+  {
+    "title": "The Concept of Universal Basic Income",
+    "content": "Universal Basic Income (UBI) proposes an economic model wherein every citizen receives a regular, unconditional sum of money from the federal government, regardless of their employment status. Proponents fervently argue that UBI provides an essential financial safety net, potentially eradicating extreme poverty and softening the severe blow of impending mass job losses due to robotic automation. Critics, however, argue incredibly strongly that implementing such a drastically expensive system would severely cripple national economies and blatantly disincentivize active workforce participation.",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd-f0b073df"
+  },
+  {
+    "title": "Epigenetics: Beyond the DNA Sequence",
+    "content": "For decades, it was commonly believed that our genetic destiny was strictly determined solely by our fundamental DNA sequence. The emerging biological field of epigenetics, however, proves tremendously otherwise. Epigenetics brilliantly studies how external behaviors and uncontrollable environmental factors—such as severe stress, profound trauma, or strict diet—can physically alter how genes work without changing the underlying DNA code. Remarkably, these functional changes can occasionally be inherited, suggesting surprisingly that an individual's lifestyle immensely impacts the biological destiny of their future descendants.",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd-5ec41f98"
+  },
+  {
+    "title": "The Evolution of E-Commerce",
+    "content": "The retail landscape has undergone a monumental transformation over the last two decades, driven extensively by the exponential rise of electronic commerce. Consumers now expect breathtakingly rapid delivery, personalized algorithmic recommendations, and universally seamless mobile checkout experiences. While giant online retailers consistently thrive by expertly leveraging massive global supply chains, countless traditional brick-and-mortar stores continuously struggle to survive. To incredibly remain competitive, conventional physical businesses are now completely forced to heavily integrate omni-channel marketing strategies and sophisticated digital storefronts.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd-49a6a2ad"
+  },
+  {
+    "title": "Neuroplasticity After Brain Injury",
+    "content": "Historically, the adult brain was widely considered to be an incredibly rigid, unchanging structure incapable of active repair after severe injury. Modern neurological imaging, however, vividly reveals the remarkable concept of neuroplasticity. Following a massive stroke or traumatic brain injury, the human brain can brilliantly reorganize its intricate neural pathways to dynamically compensate for lost functions. Through intensely rigorous physical therapy and deliberate repetitive mental exercises, patients frequently regain astonishingly significant motor skills and functional speech, defying previously bleak medical prognoses.",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd-259a94d5"
+  },
+  {
+    "title": "The Future of Space Architecture",
+    "content": "As ambitious space agencies passionately plan prolonged lunar habitation and incredibly daring long-term Mars missions, totally new engineering challenges consistently arise. Designing incredibly sustainable space habitats requires meticulously accounting for deadly radiation, zero gravity, and absolutely extreme temperature fluctuations. Engineers are intensely experimenting with revolutionary 3D-printing technologies that effortlessly utilize native Martian or lunar soil to construct incredibly robust radiation shields. Thus, modern space architecture heavily demands intense collaboration between avant-garde aerospace engineers, creative architects, and brilliant materials scientists.",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd-ee6cef7a"
+  },
+  {
+    "title": "Media Literacy in the Digital Age",
+    "content": "The total democratization of information heavily facilitated by diverse social media platforms has unfortunately simultaneously accelerated the incredibly rapid spread of massive misinformation. In an era where meticulously manipulated 'deep-fakes' and highly biased algorithmic feeds notoriously dominate public discourse, media literacy has become an absolutely essential civic skill. Educational institutions are now aggressively urged to explicitly teach students how to incredibly effectively cross-verify sources, intensely recognize logical fallacies, and brilliantly distinguish highly objective journalism from incredibly malicious propaganda.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd-1cee0b55"
+  },
+  {
+    "title": "Understanding the Gig Economy",
+    "content": "The modern workforce is witnessing a profound transition from traditional, full-time employment towards a highly fragmented 'gig economy.' Powered by mobile applications and digital platforms, this new system offers workers unprecedented schedule flexibility and independence. Conversely, it notoriously strips them of fundamental job security, structured health benefits, and legally mandated paid leave. Economists constantly debate whether this massive structural shift ultimately liberates the modern worker or simply institutionalizes precarious labor conditions.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd2-c303f335"
+  },
+  {
+    "title": "Vaccine Development and Logistics",
+    "content": "The breathtakingly rapid development of mRNA vaccines during the recent global pandemic brilliantly showcased the astonishing peak of modern medical science. By instructing human cells to temporarily produce harmless viral proteins, these innovative vaccines effortlessly trigger incredibly robust immune responses. Despite this monumental scientific triumph, ensuring equitable global distribution inherently remains an immensely severe logistical challenge. Furthermore, deeply entrenched public hesitancy fueled by online misinformation persistently hinders the achievement of global herd immunity.",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd2-de417d72"
+  },
+  {
+    "title": "The Psychology of Advertising",
+    "content": "Modern advertising is inherently not merely about presenting a product; it is an incredibly complex psychological endeavor fundamentally designed to manipulate consumer desires. Marketers extensively utilize sophisticated principles of behavioral psychology, such as the widely documented 'scarcity effect' and the powerful 'bandwagon phenomenon.' By aggressively associating simple consumer goods with profound emotional states—like happiness or social prestige—advertisers effectively bypass logical human reasoning, strongly prompting impulsive purchasing decisions.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd2-8b904a1e"
+  },
+  {
+    "title": "Smart Cities and Data Privacy",
+    "content": "The compelling vision of a 'smart city' involves integrating millions of internet-connected sensors directly into essential urban infrastructure, ranging from traffic lights to municipal waste management systems. While this incredibly dense data collection drastically improves daily civic efficiency and significantly reduces overall energy consumption, it also rightfully raises unprecedented privacy concerns. Detractors argue that without establishing rigorous data protection laws, smart cities could easily unintentionally devolve into highly oppressive surveillance states.",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd2-234e84b7"
+  },
+  {
+    "title": "Genetic Determinism vs. Free Will",
+    "content": "As modern behavioral genetics rapidly advances, the controversial concept of genetic determinism has ferociously re-entered philosophical discourse. If our fundamental personality traits, intellectual capacities, and even extreme predispositions to antisocial aggression are heavily influenced by our raw DNA, where exactly does profound human agency reside? While scientists continuously strictly assert that complex genetics merely represent a predisposition—not an absolute destiny—this intense ongoing debate forces legal scholars to completely re-evaluate the foundations of personal moral responsibility.",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd2-e366aab5"
+  },
+  {
+    "title": "Microplastics in the Food Chain",
+    "content": "Microplastics—microscopic plastic fragments resulting from the agonizingly slow degradation of synthetic products—have heavily permeated literally every corner of the natural Earth, from deep ocean trenches to human bloodstreams. While the terrible impact on marine wildlife has been extensively documented, massive toxicological concerns entirely revolve around the terrifying potential long-term human ingestion consequences. Preliminary laboratory studies ominously indicate that these microscopic foreign particles can provoke severe internal inflammation and carry toxic chemical additives directly into vital deep human tissues.",
+    "difficultyLevel": 5,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd2-ffe74a98"
+  },
+  {
+    "title": "The Renaissance: Dawn of Modern Thought",
+    "content": "The European Renaissance, spanning the 14th to the 17th highly transformative centuries, powerfully marked a radical departure from strict medieval theological dogma. The massive cultural revival of classical ancient philosophy deeply sparked the profound intellectual movement of intense humanism, placing absolute emphasis on human inherent dignity, immense individual potential, and rational scientific inquiry. This incredible era of intense artistic and massive scientific innovation permanently irrevocably reshaped humanity's understanding of our universe, directly paving the secure path for the Scientific Revolution.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd2-697ade71"
+  },
+  {
+    "title": "Automated Vehicles and Traffic Safety",
+    "content": "The rapidly impending widespread deployment of completely autonomous vehicles inherently promises to drastically revolutionize deeply entrenched global transportation systems. By entirely forcefully removing the highly unpredictable element of constant human error—distraction, extreme fatigue, and reckless impairment—advocates confidently intensely predict a massive, unprecedented drop in globally fatal traffic collisions. However, severe ethical dilemmas heavily persist concerning algorithmic crisis decision-making, deliberately questioning how these incredibly complex AI systems should precisely instinctively react when a catastrophic accident is unavoidable.",
+    "difficultyLevel": 4,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd2-924e71b2"
+  },
+  {
+    "title": "The Mechanics of Sleep Deprivation",
+    "content": "Chronically severe modern sleep deprivation is absolutely not merely an incredibly frustrating temporary inconvenience; it acts as a deeply pervasive public health crisis. Missing adequate restorative rest explicitly profoundly severely impairs the prefrontal cortex, fundamentally directly leading to poor crisis decision-making and extreme emotional instability. Furthermore, highly prolonged massive wakefulness severely explicitly restricts the brain's critical glymphatic clearance system, viciously heavily preventing the regular, essential daily removal of toxic, deeply harmful neuro-waste associated with severe Alzheimer's disease.",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd2-3c57ac76"
+  },
+  {
+    "title": "Social Identity Theory in Groups",
+    "content": "Social Identity Theory proposes that an individual's sense of who they are is heavily based on their group membership. Groups which people belonged to—such as social class, family, or football team—were an important source of pride and self-esteem. Groups give us a sense of social identity: a sense of belonging to the social world. In order to increase our self-image we enhance the status of the group to which we belong, which can sometimes lead to prejudice against other groups.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd2-3c8e4c93"
+  },
+  {
+    "title": "Dark Matter: The Invisible Universe",
+    "content": "Ordinary observable matter encompasses merely a tiny fraction of the total universe. The vast, overwhelming majority absolutely consists of invisible dark matter and dark energy. Although dark matter does not interact with detectable light, its profound gravitational influence is heavily evident in the incredibly unexpectedly rapid rotation of distant galaxies. Deciphering its fundamental nature strictly remains modern physics’ ultimate quest, pushing the boundaries of our standard cosmological models well beyond their known limits.",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd2-276f0f84"
+  },
+  {
+    "title": "The Ethics of Animal Testing",
+    "content": "Animal experimentation has historically fundamentally served as the absolute crucial foundation for unbelievably numerous lifesaving human surgical procedures and incredibly critical drug discoveries. Despite its undeniable massive medical utility, the practice faces intense, deeply severe ongoing moral scrutiny. Modern animal rights advocates heavily aggressively fiercely argue that intentionally causing explicit bodily harm to sentient non-human creatures is inherently entirely completely unethical. Consequently, enormous scientific effort is now passionately directed towards developing highly viable computational simulation alternatives.",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd2-e934d5fb"
+  },
+  {
+    "title": "Cultural Appropriation vs. Appreciation",
+    "content": "The boundary between respectful cultural appreciation and exploitative cultural appropriation is intensely contested. Appropriation typically entirely involves members of a highly dominant society casually adopting incredibly profound sacred elements of a deeply marginalized group explicitly without recognizing their fundamental historical significance. While sharing beautiful cultural aesthetics can heavily foster incredible social unity, critics vehemently argue it inherently becomes deeply harmful when commodified explicitly entirely for shallow commercial profit.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd2-f1dd36fa"
+  },
+  {
+    "title": "Blockchain Technology Beyond Cryptocurrency",
+    "content": "While famously heavily recognized primarily as the underlying, foundational digital infrastructure for massive popular cryptocurrencies, blockchain technology inherently clearly possesses incredible highly diverse applications. Because it securely acts as an unalterable, completely decentralized digital ledger, blockchain can significantly dramatically drastically absolutely revolutionize deeply complex global supply chain tracking, fundamentally tightly secure incredibly vulnerable electronic voting massive entire systems, and flawlessly seamlessly automate highly incredibly complex digital contractual legal agreements.",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd2-a38a3efa"
+  },
+  {
+    "title": "The Psychology of Procrastination",
+    "content": "Procrastination is inherently commonly misunderstood as a profound time-management flaw or total blatant laziness. Contemporary behavioral psychologists, however, accurately characterize it genuinely as a complex emotional regulation problem. When directly facing a significantly enormously intimidating or highly stressful task, individuals naturally instinctively intentionally delay action specifically purely purely to fiercely avoid deeply massive negative emotional discomfort, opting instead for short-term mood repair.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd2-39611501"
+  },
+  {
+    "title": "CRISPR and Agricultural Improvement",
+    "content": "Global climate change and an exploding population strongly demand highly sustainable and robust agricultural solutions. CRISPR technology explicitly explicitly provides an incredibly precise method to alter crop genes directly. Scientists are now effectively engineering incredibly resilient wheat varieties capable of absolutely inherently surviving severe prolonged droughts and entirely repelling destructive pests without relying strictly on highly toxic chemical pesticides. This precision breeding guarantees a safer global food supply while significantly reducing environmental footprint.",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd2-67186e04"
+  },
+  {
+    "title": "Alzheimer's Disease Mechanisms",
+    "content": "Alzheimer's disease is a profoundly devastating neurodegenerative condition that primarily aggressively destroys the nervous system over essentially a prolonged time. Scientists primarily fundamentally attribute this cognitive degradation to the toxic accumulation of amyloid-beta plaques and distinct tau tangles within the cerebral cortex. These abnormal structures explicitly massively interrupt critical synaptic communication, inevitably leading directly to widespread neuronal death and progressive memory loss, establishing a desperate need for efficient disease-modifying therapies.",
+    "difficultyLevel": 3,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd2-52907f10"
+  },
+  {
+    "title": "Political Polarization Dynamics",
+    "content": "The increasingly alarmingly profound modern political polarization represents a significant threat to global democratic institutions. This deep ideological division is substantially accelerated by deliberately highly curated social media echo chambers that specifically filter out contradictory perspectives. As average citizens are continuously overwhelmingly exposed solely to heavily partisan rhetoric, their inherent capacity for rational bipartisan compromise distinctly violently deteriorates, inevitably frequently resulting in severe, deeply entrenched legislative gridlock.",
+    "difficultyLevel": 5,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd2-06b9388f"
+  },
+  {
+    "title": "Advancements in Hydroponics",
+    "content": "Hydroponics, the modern practice of heavily explicitly cultivating plants entirely without traditional soil, fundamentally relies heavily on precisely formulated nutrient-rich water solvents. This innovative agricultural method dramatically substantially drastically reduces total water consumption and entirely completely eliminates massive soil-borne diseases. Furthermore, because these controlled systems actively strictly explicitly facilitate intensive vertical farming in deeply urban concrete environments, hydroponics is actively widely recognized simply essentially explicitly directly naturally totally naturally perfectly explicitly as the future of entirely sustainable urban agriculture.",
+    "difficultyLevel": 5,
+    "category": "Fen Bilimleri",
+    "id": "generated-rd2-47c42a37"
+  },
+  {
+    "title": "The Reality of Food Deserts",
+    "content": "Food deserts are geographically distinct urban or rural areas where residents face extremely limited or entirely absolutely no access to completely deeply highly affordable, highly nutritious fresh food. Inhabited disproportionately by socioeconomically disadvantaged communities, these regions are typically flooded with terribly highly heavily processed fast-food alternatives. This severe lack of nutritional infrastructure is explicitly undeniably directly heavily correlated with drastically incredibly deeply elevated local rates of chronic severe modern obesity and dangerous type-2 diabetes.",
+    "difficultyLevel": 4,
+    "category": "Sağlık Bilimleri",
+    "id": "generated-rd2-d4f804a0"
+  },
+  {
+    "title": "Consumer Culture Development",
+    "content": "Modernist deeply structural consumer culture has historically aggressively directly evolved precisely from the massive massive industrial revolution's capability for incredibly deeply rapid mass production. By utilizing deeply explicitly extremely aggressive marketing directly campaigns, massive corporations incredibly remarkably entirely successfully historically successfully transformed everyday basic luxuries into fundamentally universally deeply perceived absolute profound basic necessities. This continuous heavily deeply firmly strictly fundamentally deliberately promoted deeply relentless accumulation profoundly inevitably directly leads directly directly totally heavily significantly effectively definitely directly exactly to incredible devastating massive modern ecological depletion.",
+    "difficultyLevel": 4,
+    "category": "Sosyal Bilimler",
+    "id": "generated-rd2-76d180b0"
   }
 ]
