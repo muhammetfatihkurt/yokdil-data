@@ -26,58 +26,6 @@
         "word": "stronger",
         "meaning": "daha güçlü"
       }
-    ],
-    "questions": [
-      {
-        "text": "What is important to start your day with?",
-        "options": [
-          "A healthy routine",
-          "Drinking coffee",
-          "Sleeping late",
-          "Watching TV"
-        ],
-        "correctAnswer": "A healthy routine"
-      },
-      {
-        "text": "According to the text, what do many people like to drink first?",
-        "options": [
-          "A glass of milk",
-          "A glass of water",
-          "Tea",
-          "Orange juice"
-        ],
-        "correctAnswer": "A glass of water"
-      },
-      {
-        "text": "What gives you energy for the whole day?",
-        "options": [
-          "Lunch",
-          "Dinner",
-          "A good breakfast",
-          "Snacks"
-        ],
-        "correctAnswer": "A good breakfast"
-      },
-      {
-        "text": "Which foods are mentioned to eat in the text?",
-        "options": [
-          "Vegetables and meat",
-          "Fruits and eggs",
-          "Bread and butter",
-          "Cheese and olives"
-        ],
-        "correctAnswer": "Fruits and eggs"
-      },
-      {
-        "text": "Why is walking in the fresh air good?",
-        "options": [
-          "For your heart",
-          "For your eyes",
-          "For your hair",
-          "For your legs"
-        ],
-        "correctAnswer": "For your heart"
-      }
     ]
   },
   {
